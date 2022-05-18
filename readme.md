@@ -2,7 +2,8 @@
 
 Este projeto é referente a conexão da aplicação em C# utilizando a tecnologia Windows Forms.
 
-Screenshots do projeto  
+Screenshots do projeto
+
 Aplicação
 ![aplication](https://user-images.githubusercontent.com/64422090/169173037-127423ff-937d-4442-8ffd-402cf2fcb293.png)
 Cadastro
@@ -26,6 +27,7 @@ Servidor Xampp
 \*\*Front-end: Windows Forms - Nativo C#
 
 \*\*Back-end: C# com pacote de instalação via Nugets ( MysqlConect)
+
 \*\*Banco de dados: Banco de dados MYSQL com servidor Xampp
 
 ## Melhorias a fazer
