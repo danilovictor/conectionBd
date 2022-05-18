@@ -39,6 +39,8 @@ Servidor Xampp
 
 \*\*Banco de dados: Banco de dados MYSQL com servidor Xampp
 
+\*\*Ferramentas: Visual Studio IDE - Nuggets para instalação de pacotes - Git para versionamento - Xampp - Banco de dados MYSQL 8.0
+
 ## Melhorias a fazer
 
 - Refatoração de codigo
